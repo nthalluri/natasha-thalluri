@@ -24,6 +24,9 @@ jobs:
           bundle install
 
       - name: Build site
-        run: bundle exec jekyll build
-        env:
-          JEKYLL_ENV: production
+        run: |
+    bundle exec jekyll build
+    echo "===== GENERATED CSS ====="
+    cat _site/assets/css/main.css
+  env:
+    JEKYLL_ENV: production
