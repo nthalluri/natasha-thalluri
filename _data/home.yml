@@ -2,10 +2,10 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
+  - title: Research
     url: blog
 
-  - title: website
+  - title: Output
     url: https://www.abhinav.co
 
 project_entries:
