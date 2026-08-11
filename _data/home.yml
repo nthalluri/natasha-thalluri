@@ -8,6 +8,10 @@ navbar_entries:
   - title: Output
     url: about
 
+  - title: CV
+    url: cv
+    
+
 project_entries:
   - title: Project 1
     url: overview-post
