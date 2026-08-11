@@ -1,37 +1,34 @@
 ---
 layout: about
-title: About Moonwalk
+title: Output
 ---
-
-Moonwalk is a fast, minimal Jekyll theme built for people who want their writing to look great without fighting their tools.
-
-## Why Moonwalk?
-
-Most Jekyll themes fall into two camps - either so bare-bones that you spend hours styling, or so bloated with features that your Lighthouse score tanks before you write a single post.
-
-Moonwalk sits in between. You get a polished reading experience, real dark mode, and a 100/100 Lighthouse score out of the box. No JavaScript frameworks. No build tools. No npm.
 
 ## Publications
 
-Everything is opt-in via `_config.yml` - turn on only what you need:
+- Thalluri, Natasha.(2025). The semantics of multi-headed wh correlatives in Georgian. Proceedings of LSA 101. (link)
+- Thalluri, Natasha . to appear. A return to a functional dependency approach to correlatives. Proceedings of SuB 29. (link)
+- Thalluri, Natasha, Davidson, Kathryn. (2024). Degrees and depiction- gradability in sign languages. Proceedings of SuB 28. (link)
+- Thalluri, Natasha, Kathryn Davidson.  (forthcoming). Signatures of Comparison. Proceedings of Experiments in Linguistic Meaning-4.
+- Luo, Richard, Thalluri, Natasha. (forthcoming). Scope variability in two classes of Georgian indefinite pronouns. Proceedings of CLS62.
 
-- **Light and dark mode** with system preference detection and a manual toggle
-- **Reading progress bar** so readers know how far along they are
-- **Back-to-top button** for long posts
-- **Table of contents** via `toc: true` in your post's front matter
-- **Code copy button** on every code block
-- **Previous/next post links** at the bottom of each post
-- **GitHub Markdown Alerts** for callouts (NOTE, TIP, WARNING, etc.)
-- **Card layout** for portfolios and project showcases
-- **Tag archive** with clickable, filterable tags
 
 ## Conference Presentations
 
-1. [Fork this repo](https://github.com/abhinavs/moonwalk/fork) or click "Use this template"
-2. Edit `_config.yml` with your name, title, and preferences
-3. Push - GitHub Pages deploys it automatically
+- Thalluri, Natasha, Kathryn Davidson. June 2026. Signatures of Comparison. Poster/Short Talk at Experiments in Linguistic Meaning-4, University of Pennsylvania.
+- Luo, Richard, Thalluri, Natasha. April 2026. Scope variability in two classes of Georgian indefinite pronouns. Talk at Chicago Linguistics Society (CLS62), University of Chicago, USA.
+- Thalluri, Natasha. (2026). Ghosts and shadows- evidential contrafactives in Georgian.. Talk at the 102nd Annual Meeting of the Linguistic Society of America, New Orleans.
+- Thalluri, Natasha. (2025). The semantics of wh-correlatives and free relatives in Georgian. Talk at the South Caucasian Chalk Circle, Paris, France.
+- Rabinovitch, Jack, Thalluri, Natasha. (2025). Polar Questions and Answers under Hindi Kahnā. Talk at Formal Approaches to South Asian Languages 15, 2025, Austin, Texas.
+- Luo, Richard, Thalluri, Natasha. (2025). Scope variability in two classes of Georgian indefinite pronouns. Talk at Caucasian linguistics: recent advances and emerging topics, Lyon, France.
+- Thalluri, Natasha. (2025). The semantics of multi headed wh-correlatives in Georgian. Talk at the 101st Annual Meeting of the Linguistic Society of America, Philadelphia.
+- Thalluri, Natasha, Kathryn Davidson. (2025). Universality and Variation in sign language comparatives. Poster at Theoretical Issues in Sign Language Research 15 (TISLR), Addis Ababa, Ethiopia.
+- Thalluri, Natasha. (2024). A return to a functional dependency approach to correlatives. Poster at Sinn und Bedeutung 29, Noto.
+- Thalluri, Natasha, Kathryn Davidson. (2024). Towards a unified view of `co-sign gesture’ depictions as demonstrations. Poster/Short talk at Formal and Experimental Advances in Sign Language Theory (FEAST), Michigan, Ann Arbor.
+- Thalluri, Natasha. (2024). Reanalysis and lexical innovation in the pronominal paradigm in Dakkhini Urdu. Poster at (Formal) Approaches to South Asian Languages 14, Stony Brook, New York.
+- Thalluri, Natasha. (2024). Morphosyntactic convergence in Dakkhini Urdu- reanalysis and lexical innovation in the pronominal paradigm. Poster at the 100th Annual Meeting of the Linguistic Society of America, New York City.
+- Thalluri, Natasha, Kathryn Davidson. (2023). Degrees and depiction- gradability in sign languages. Talk at Sinn und Bedeutung 28, Bochum.
+- Thalluri, Natasha. (2022). Comparing comparatives in English and Hindi: an argument against Type Economy. Talk at GLOW in Asia XIII, Hong Kong (Online)
 
-For local development, run `bin/bootstrap` to install dependencies, then `bin/start` to preview at `http://127.0.0.1:4000`.
 
 ## Invited Talks
 
