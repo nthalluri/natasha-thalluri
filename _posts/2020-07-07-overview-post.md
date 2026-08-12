@@ -1,13 +1,14 @@
 ---
 layout: post
-author: Abhinav Saxena
+author: Natasha
 tags: [overview, moonwalk]
 toc: true
 ---
 
-Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
+Correlatives are a typologically rare phenomenon that have largely been studied in languages in the Indian sub-continent such
+as Hindi, Marathi and Marwari. Unlike an English style relative clause, the relative clause in a correlative is dislocated from the
+noun phrase it modifies, and the two clauses are connected by a demonstrative pronoun. One of the most striking properties of a correlative is the ability to stack multiple relative pronouns in the relative clause, resulting in a configuration that resembles a multiple wh-question. In this project , I investigate various aspects of correlatives such as the functional dependency in these constructions, quantificational variability effects, and the interaction with free choice.
 
-# Sample heading 1
 ## Sample heading 2
 ### Sample heading 3
 #### Sample heading 4
