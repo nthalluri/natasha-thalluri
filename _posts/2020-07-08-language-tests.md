@@ -1,13 +1,8 @@
 ---
 layout: post
-title: "Language Tests"
+title: Gradability and Iconicity
 ---
-
-Note: Text is from [moving](https://github.com/huangyz0918/moving), which is another good Jekyll theme.
-
-### 1. 日本語テスト
-
-This is a Japanese test post to show you how japanese is displayed.
+I am interested in the interaction between iconic and symbolic components of language in expressions of comparison. In this project with Kathryn Davidson, we investigate the different expressions of comparison in spoken and sign language and the semantic contribution of iconicity in these constructions.
 
 私は昨日ついにその助力家というのの上よりするたなけれ。
 最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。
