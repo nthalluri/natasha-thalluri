@@ -22,10 +22,10 @@ project_entries:
     desc: Projects are shown in card layout
 
   - title: Language Contact
-    url: overview-post
+    url: dakhini
     desc: You can control visibility from _config.yml file
 
-  - title: Indefinites
+  - title: Indefinites in Georgian
     url: overview-post
     desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
