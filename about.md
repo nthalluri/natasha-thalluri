@@ -18,7 +18,6 @@ title: Output
 - Luo, Richard, Thalluri, Natasha. April 2026. Scope variability in two classes of Georgian indefinite pronouns. Talk at Chicago Linguistics Society (CLS62), University of Chicago, USA.
 - Thalluri, Natasha. (2026). Ghosts and shadows- evidential contrafactives in Georgian.. Talk at the 102nd Annual Meeting of the Linguistic Society of America, New Orleans.
 - Thalluri, Natasha. (2025). The semantics of wh-correlatives and free relatives in Georgian. Talk at the South Caucasian Chalk Circle, Paris, France.
-- Rabinovitch, Jack, Thalluri, Natasha. (2025). Polar Questions and Answers under Hindi Kahnā. Talk at Formal Approaches to South Asian Languages 15, 2025, Austin, Texas.
 - Luo, Richard, Thalluri, Natasha. (2025). Scope variability in two classes of Georgian indefinite pronouns. Talk at Caucasian linguistics: recent advances and emerging topics, Lyon, France.
 - Thalluri, Natasha. (2025). The semantics of multi headed wh-correlatives in Georgian. Talk at the 101st Annual Meeting of the Linguistic Society of America, Philadelphia.
 - Thalluri, Natasha, Kathryn Davidson. (2025). Universality and Variation in sign language comparatives. Poster at Theoretical Issues in Sign Language Research 15 (TISLR), Addis Ababa, Ethiopia.
@@ -30,9 +29,14 @@ title: Output
 - Thalluri, Natasha. (2022). Comparing comparatives in English and Hindi: an argument against Type Economy. Talk at GLOW in Asia XIII, Hong Kong (Online)
 
 
-## Invited Talks
+## Selected Invited Talks
 
-- **Writing first.** Typography, spacing, and contrast are tuned for long-form reading.
-- **No lock-in.** Standard Jekyll. No plugins you can't replace, no proprietary services required.
-- **Performance is a feature.** Every CSS rule earns its place. The entire theme compiles to a few kilobytes.
-
+- November 2025. A diachronic perspective on correlatives. The Harvard Indo-European & Historical Workshop, Harvard University.
+- October 2025. A plea for functional dependencies. Yale Semantics Reading Group, Yale University.
+- April 2025. Signatures of Comparison. Language and Cognition Workshop, Harvard University.
+- November 2024. Scope variability in two classes of Georgian indefinite pronouns. Talk at the Southern New England Workshop in Semantics, MIT.(Joint work with Richard Luo)
+- April 2024. Reanalysis and lexical innovation in the pronominal paradigm in Dakkhini Urdu. The Harvard Indo-European & Historical Workshop, Harvard University.
+- November 2022. Effects of information structure on word order in Hindi. Talk at the Southern New England Workshop in Semantics, Yale University.
+- November 2021. The Implications of Type Economy for the Semantics of Comparatives. The typology of cumulativity, Humboldt University Berlin (Online).
+- July 2021. The Implications of Type Economy for the Semantics of Comparatives. Linguistics Oberseminar, Georg-August Universität Göttingen.
+- July 2019. Politeness Structures in Hindi and Indian English. Summer School on Speech Acts, Georg-August Universität Göttingen.
