@@ -15,8 +15,8 @@ navbar_entries:
 project_entries:
   - title: Relative clauses
     url: overview-post
-    desc: This is an example project, configured in _data/home.yml
-
+    desc: 
+    
   - title: Iconicity and Gradability
     url: gradability-iconicity
     desc: 
