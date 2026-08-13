@@ -6,7 +6,7 @@ title: Output
 ## Publications
 
 - Thalluri, Natasha.(2025). The semantics of multi-headed wh correlatives in Georgian. Proceedings of LSA 101. (link)
-- Thalluri, Natasha . to appear. A return to a functional dependency approach to correlatives. Proceedings of SuB 29. (link)
+- Thalluri, Natasha.(2025). A return to a functional dependency approach to correlatives. Proceedings of SuB 29. (link)
 - Thalluri, Natasha, Davidson, Kathryn. (2024). Degrees and depiction- gradability in sign languages. Proceedings of SuB 28. (link)
 - Thalluri, Natasha, Kathryn Davidson.  (forthcoming). Signatures of Comparison. Proceedings of Experiments in Linguistic Meaning-4.
 - Luo, Richard, Thalluri, Natasha. (forthcoming). Scope variability in two classes of Georgian indefinite pronouns. Proceedings of CLS62.
