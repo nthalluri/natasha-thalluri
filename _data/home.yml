@@ -55,20 +55,20 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: Harvard Linguistics
+    url: https://linguistics.fas.harvard.edu
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: M&M Lab
+    url: https://meaningandmodality.github.io/site/?page=home
 
-  - title: github
-    url: https://github.com/abhinavs
+  - title: Google Scholar
+    url: 
+    
+  - title: 
+    url: 
 
-  - title: feed
-    url: feed.xml
-
-  - title: llms.txt
-    url: llms.txt
+  - title: 
+    url: 
 
 misc_entries:
   - title: this is an example vertical list
